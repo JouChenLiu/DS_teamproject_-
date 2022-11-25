@@ -1,2 +1,2 @@
-# DS_teamproject_8
+# DS_teamproject_team8
 資料科學導論_teamproject第八組
